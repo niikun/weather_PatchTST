@@ -48,3 +48,7 @@
 - Google Colab T4 GPU
 - PyTorch + transformers（PatchTST）
 - Python 3.x
+
+## 作者
+
+niikun — 他のプロジェクトは [niikun.net](https://niikun.net) にまとめています。
